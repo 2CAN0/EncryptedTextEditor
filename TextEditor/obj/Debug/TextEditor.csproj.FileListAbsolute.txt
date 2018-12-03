@@ -1,0 +1,20 @@
+C:\Users\Luca en Fabio Gast\source\repos\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+C:\Users\Luca en Fabio Gast\source\repos\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+C:\Users\Luca en Fabio Gast\source\repos\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+C:\Users\Luca en Fabio Gast\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.csprojResolveAssemblyReference.cache
+C:\Users\Luca en Fabio Gast\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.Form1.resources
+C:\Users\Luca en Fabio Gast\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Users\Luca en Fabio Gast\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.Cache
+C:\Users\Luca en Fabio Gast\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Luca en Fabio Gast\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+C:\Users\Luca en Fabio Gast\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+C:\Users\2CAN0-2\Documents\Programming\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+C:\Users\2CAN0-2\Documents\Programming\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+C:\Users\2CAN0-2\Documents\Programming\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+C:\Users\2CAN0-2\Documents\Programming\TextEditor\TextEditor\obj\Debug\TextEditor.csprojResolveAssemblyReference.cache
+C:\Users\2CAN0-2\Documents\Programming\TextEditor\TextEditor\obj\Debug\TextEditor.Form1.resources
+C:\Users\2CAN0-2\Documents\Programming\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Users\2CAN0-2\Documents\Programming\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.Cache
+C:\Users\2CAN0-2\Documents\Programming\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\2CAN0-2\Documents\Programming\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+C:\Users\2CAN0-2\Documents\Programming\TextEditor\TextEditor\obj\Debug\TextEditor.pdb

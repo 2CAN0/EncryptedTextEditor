@@ -1,0 +1,10 @@
+C:\Users\2CAN0-2\Documents\Programming\TextEditor\TextEditor\bin\Release\TextEditor.exe.config
+C:\Users\2CAN0-2\Documents\Programming\TextEditor\TextEditor\bin\Release\TextEditor.exe
+C:\Users\2CAN0-2\Documents\Programming\TextEditor\TextEditor\bin\Release\TextEditor.pdb
+C:\Users\2CAN0-2\Documents\Programming\TextEditor\TextEditor\obj\Release\TextEditor.Form1.resources
+C:\Users\2CAN0-2\Documents\Programming\TextEditor\TextEditor\obj\Release\TextEditor.Properties.Resources.resources
+C:\Users\2CAN0-2\Documents\Programming\TextEditor\TextEditor\obj\Release\TextEditor.csproj.GenerateResource.Cache
+C:\Users\2CAN0-2\Documents\Programming\TextEditor\TextEditor\obj\Release\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\2CAN0-2\Documents\Programming\TextEditor\TextEditor\obj\Release\TextEditor.exe
+C:\Users\2CAN0-2\Documents\Programming\TextEditor\TextEditor\obj\Release\TextEditor.pdb
+C:\Users\2CAN0-2\Documents\Programming\TextEditor\TextEditor\obj\Release\TextEditor.csprojResolveAssemblyReference.cache
